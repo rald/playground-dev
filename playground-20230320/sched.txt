@@ -1,0 +1,29 @@
+itami
+  mon-wed 8pm-11pm webtech
+  sat     8pm-11pm c++
+  sun     9pm-11pm java
+
+zeyn
+  fri 4pm-7pm webtech
+  
+ferd
+  mon 7am-10am c
+  mon 1pm-4pm vb
+  
+  tue 7am-10am webtech
+  tue 1pm-4pm python
+  
+  fri 7am-10am linux
+  fri 1pm-4pm java
+  
+shi (drop)
+  tue     1pm-3pm c++
+  wed     1pm-3pm web
+  thu,fri 1pm-3pm java
+
+brake^t (drop)
+  sun 9am-12pm python
+
+pattu (drop)
+  mon 1pm-4pm python
+

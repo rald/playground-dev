@@ -1,0 +1,31 @@
+itami I2206
+  mon-wed 8pm-11pm webtech
+  sat     8pm-11pm c++
+  sun     9pm-11pm java
+
+ferd I2209
+  mon 7am-10am c
+  mon 1pm-4pm vb
+  
+  tue 7am-10am webtech
+  tue 1pm-4pm python
+  
+  fri 7am-10am c++
+  fri 1pm-4pm java
+  
+jane D2300
+  sat 530pm-7pm WebTech
+
+shi I2203 (drop)
+  tue     1pm-3pm c++
+  wed     1pm-3pm web
+  thu,fri 1pm-3pm java
+
+brake^t B2300 (drop)
+  sun 9am-12pm python
+
+pattu B2301 (drop)
+  mon 1pm-4pm python
+
+zeyn C2300 (drop)
+  fri 4pm-7pm webtech
